@@ -13,6 +13,10 @@
     <category>education</category>
   </categories>
 
+  <mimetypes>
+    <mimetype>application/x-logisim</mimetype>
+  </mimetypes>
+
   <description>
     <p>Logisim is an educational tool for designing and simulating digital logic circuits. With its
       simple toolbar interface and simulation of circuits as you build them, it is simple enough to
@@ -41,5 +45,4 @@
   </releases>
 
   <content_rating type="oars-1.0"></content_rating>
-
 </component>
